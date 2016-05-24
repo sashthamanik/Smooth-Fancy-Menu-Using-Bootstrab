@@ -1,2 +1,3 @@
 # Smooth-Fancy-Menu-bootstrab-
-This is sooth design with fancy menu bar
+This is smooth with fancy menu bar!!
+I think you will love this syle!
