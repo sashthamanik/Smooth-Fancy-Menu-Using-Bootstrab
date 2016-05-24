@@ -1,0 +1,69 @@
+/*
+comments 
+IntelligentCseians
+
+*/
+#container{
+    height:100%;
+    width::100%;
+	
+	
+}
+#header{
+		background:#c765b3;
+        padding:8px 32px 40px 0px;
+	/*padding:10px 0px 63px 5px;*/
+	
+}
+#nav{
+	width:100%;	
+     height:100%;
+	background:#360446;
+    padding: 0px 1px 1px 1px;
+	    list-style-type:none;
+	line-height:42px;
+    margin:-2px 0px -31px 1px !important;
+	}
+
+#nav-logo img{	
+    margin:-40px 0px -41px 17px;
+}
+
+#nav-menu a{	
+    margin:-44px -410px 6px 452px;
+    padding: 4px 0px 0px 0px;
+    text-decoration: none;
+    color: #FFF;
+    float: left;
+
+}
+
+#nav-menu a:hover{
+    margin:-44px -410px 6px 452px;
+    padding: 4px 0px 0px 28px;
+	background:#c765b3 none repeat scroll 0% 0%;	
+	text-decoration:none;
+		
+}
+/* Computer */
+@media only screen and (min-width: 980px) {
+    a, button, input[type=submit], input[type=button], .product-img {
+        -webkit-transition: .5s;
+        -moz-transition: .5s;
+        -ms-transition: .5s;
+        -o-transition: .5s;
+        transition: .5s;
+    }
+
+    .ch-container {
+        padding: 1px 1px 1px 10px;
+    }
+}
+
+/*
+#box-hov:hover{
+	background:#c765b3 none repeat scroll 0% 0%;
+	padding:1em  ;
+	
+}
+*/
